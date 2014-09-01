@@ -1,0 +1,11 @@
+body{
+	padding-top:60px;
+}
+.label-inline label{
+	display:inline-block;
+	width: 100px;
+} 
+.login_error{
+	color: #b94a48;
+	
+}
